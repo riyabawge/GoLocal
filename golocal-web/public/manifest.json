@@ -1,0 +1,12 @@
+{
+  "name": "GoLocal — Feel at home, wherever you go",
+  "short_name": "GoLocal",
+  "description": "Travel learning, local phrases, and trip notes that stay on your device.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eeeeee",
+  "theme_color": "#1769e0",
+  "icons": [
+    { "src": "/golocal-mark.png", "sizes": "any", "type": "image/png" }
+  ]
+}
